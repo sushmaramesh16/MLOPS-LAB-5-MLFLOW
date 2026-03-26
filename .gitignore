@@ -1,0 +1,5 @@
+mlops_lab5_env/
+mlruns/
+iris_rf_model/
+__pycache__/
+mlflow.db
